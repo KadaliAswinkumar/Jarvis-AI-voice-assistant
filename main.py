@@ -150,5 +150,5 @@ while True:
                 break
     except Exception:
         break
-print('Hope you liked the fun project!')
-print('Follow Bhavishya on Linkedin!')
+print('Hope you liked this funny project!')
+print('Follow kadaliaswinkumar on Linkedin!')
